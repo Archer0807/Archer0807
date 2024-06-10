@@ -1,6 +1,6 @@
 ## Opa! Bão?👋
 
- Meu nome Gabriel Machado
+ Meu nome é Gabriel Machado
 
 -Atualmente estou cursando o ensino medio 📖
 -Estou estudando na Alura 💻
